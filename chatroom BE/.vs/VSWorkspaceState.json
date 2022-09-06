@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\Auth",
+    "\\Auth\\Controllers",
+    "\\Auth\\Dto",
+    "\\Auth\\Jwt",
+    "\\Auth\\Properties",
+    "\\Domain"
+  ],
+  "SelectedNode": "\\Auth.sln",
+  "PreviewInSolutionExplorer": false
+}

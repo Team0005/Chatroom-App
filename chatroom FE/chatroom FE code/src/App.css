@@ -1,0 +1,88 @@
+.chatBoard  {
+  position: relative;
+  border: rgb(70, 145, 225) 3px solid;
+  width: 900px;
+  height: 500px;
+  margin: auto;
+  background-color: rgb(247, 244, 244);
+}
+
+.friends {
+  position: absolute;
+  height: 500px;
+  width: 190px;
+  border-right: rgb(70, 145, 225) 2px solid;
+  overflow: auto;
+}
+
+
+.writeMessage {
+
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 90px;
+  width: 710px;
+  border-top: rgb(70, 145, 225) 2px solid;
+}
+
+.messages{
+  overflow: auto;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 410px;
+  width: 710px;
+}
+
+.tarea{
+  resize: none;
+  width: 83%;
+  margin: 17px;
+  
+}
+
+.sendButton{
+  border: black 2px solid;
+  border-radius: 50%;
+  position: absolute;
+  padding: 2%;
+  margin-top: 20px;
+}
+
+.name{
+  position: relative;
+  left: 16px;
+  top: 20px;
+  width: 580px;
+}
+
+
+.avatar{
+  float: left;
+  border: rgb(70, 145, 225) 2px solid;
+  position: relative;
+  height: 60px;
+  width: 60px;
+  margin-left: 20px;
+  margin-top: 10px;
+  border-radius: 50%;
+}
+
+.messageText{
+
+  position: relative;
+  word-wrap: break-word;
+  width: 580px;
+  margin-left: 100px;
+}
+
+.friendAvatar{
+
+  position: relative;
+  border: black 2px solid;
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+  margin-top: 20px;
+}
