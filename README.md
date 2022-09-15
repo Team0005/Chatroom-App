@@ -19,3 +19,5 @@ User stories:
 -	exista sistem de login/logout pentru user
 -	exista sistem de update al contului
 -	exista sistem de add/delete al userilor
+
+Link de prezentare youtube: https://www.youtube.com/watch?v=lmX8TIaMoJY&ab_channel=Team5Team5
