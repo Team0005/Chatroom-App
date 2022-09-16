@@ -15,9 +15,9 @@ User stories:
 
 
 •	Features:
--	exista sistem de login/register/logout pentru admin
--	exista sistem de login/logout pentru user
--	exista sistem de update al contului
--	exista sistem de add/delete al userilor
+-	logica de login/register/logout pentru admin
+-	logica de login/logout pentru user
+-	logica de update al contului
+-	logica de add/delete al userilor
 
 Link de prezentare youtube: https://www.youtube.com/watch?v=lmX8TIaMoJY&ab_channel=Team5Team5
