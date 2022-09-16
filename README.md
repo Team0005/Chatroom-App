@@ -19,5 +19,6 @@ User stories:
 -	logica de login/logout pentru user
 -	logica de update al contului
 -	logica de add/delete al userilor
+-	logica de citire/trimitere a mesajelor
 
 Link de prezentare youtube: https://www.youtube.com/watch?v=lmX8TIaMoJY&ab_channel=Team5Team5
